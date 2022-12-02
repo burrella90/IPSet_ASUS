@@ -23,3 +23,5 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ciarmy.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_net_ua.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_30d.netset
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv6.txt
