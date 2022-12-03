@@ -5,6 +5,7 @@ https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
@@ -22,3 +23,5 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/ciarmy.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_net_ua.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield_30d.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_onion_router.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset
