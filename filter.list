@@ -15,3 +15,4 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bbcan177_ms3.n
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_30d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_30d.ipset
+https://iplists.firehol.org/files/alienvault_reputation.ipset
