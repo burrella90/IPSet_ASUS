@@ -7,6 +7,7 @@ https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_30d.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_onion_router.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dm_tor.ipset
