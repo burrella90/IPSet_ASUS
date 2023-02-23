@@ -1,3 +1,4 @@
+https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
@@ -13,4 +14,4 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_oni
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dm_tor.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_30d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_30d.ipset
-https://iplists.firehol.org/files/alienvault_reputation.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
