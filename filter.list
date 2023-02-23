@@ -11,8 +11,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abuser
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_onion_router.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dm_tor.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bbcan177_ms1.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bbcan177_ms3.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_30d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_30d.ipset
 https://iplists.firehol.org/files/alienvault_reputation.ipset
