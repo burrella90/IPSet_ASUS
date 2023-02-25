@@ -9,6 +9,3 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_30d.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_onion_router.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dm_tor.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_30d.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_30d.ipset
