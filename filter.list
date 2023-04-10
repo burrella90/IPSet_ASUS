@@ -15,10 +15,3 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abuser
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_compromised.ipset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/anonymous.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/continent_af.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/continent_an.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/continent_oc.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/continent_as.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/continent_sa.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/continent_eu.netset
