@@ -1,9 +1,10 @@
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/alienvault_reputation.ipset
+https://iplists.firehol.org/files/urlvir.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_30d.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_1d.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bds_atif.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dyndns_ponmocup.ipset
@@ -13,7 +14,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_block.netse
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_compromised.ipset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
-https://iplists.firehol.org/files/urlvir.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/anonymous.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_ru.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_by.netset
