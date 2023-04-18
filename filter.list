@@ -22,3 +22,7 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_count
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_bg.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_ir.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_sy.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_in.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_nl.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_pl.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_hk.netset
