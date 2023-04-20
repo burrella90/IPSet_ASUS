@@ -2,7 +2,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/alienvault_rep
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urlvir.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_abusers_1d.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bds_atif.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset
@@ -19,4 +18,3 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_count
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_by.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_cn.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_kp.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_bg.netset
