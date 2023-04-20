@@ -14,8 +14,3 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_tor.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_compromised.ipset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/anonymous.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_ru.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_by.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_cn.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/geolite2_country/country_kp.netset
