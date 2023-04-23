@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/alienvault_reputation.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urlvir.ipset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_proxies.netset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
