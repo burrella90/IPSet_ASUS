@@ -23,22 +23,22 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_dshield.net
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_compromised.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers.ipset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
+
+__________________________________________________________________________________________________
+
+__________________________________________________________________________________________________
+
 __________________________________________________________________________________________________
 
 
 
-
-
-
-
-
-
-
 -------------------------------------------WAN-------------------------------------------------
+
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webserver.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
+
 __________________________________________________________________________________________________
